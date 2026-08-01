@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/janvi100104/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/janvi100104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@
 | [0396-rotate-function](https://github.com/janvi100104/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/janvi100104/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvi100104/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/janvi100104/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -631,6 +633,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/janvi100104/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/janvi100104/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/janvi100104/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -870,6 +873,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
@@ -899,4 +903,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/janvi100104/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/janvi100104/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
