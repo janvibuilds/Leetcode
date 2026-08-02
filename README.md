@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/janvi100104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/janvi100104/Leetcode/tree/master/1622-fancy-sequence) |
@@ -70,6 +71,7 @@
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/janvi100104/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/janvi100104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/janvi100104/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -638,6 +640,7 @@
 | [0799-champagne-tower](https://github.com/janvi100104/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/janvi100104/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/janvi100104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/janvi100104/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -907,4 +910,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
