@@ -14,6 +14,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/janvi100104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/janvi100104/Leetcode/tree/master/1622-fancy-sequence) |
@@ -87,6 +88,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/janvi100104/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/janvi100104/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -646,6 +648,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/janvi100104/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/janvi100104/Leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janvi100104/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/janvi100104/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -911,4 +914,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
