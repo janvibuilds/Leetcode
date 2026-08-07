@@ -36,6 +36,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janvi100104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/janvi100104/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -380,6 +381,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/janvi100104/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/janvi100104/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3447-clear-digits](https://github.com/janvi100104/Leetcode/tree/master/3447-clear-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/janvi100104/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/janvi100104/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -527,6 +529,7 @@
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janvi100104/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/janvi100104/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -545,6 +548,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/janvi100104/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/janvi100104/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/janvi100104/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/janvi100104/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/janvi100104/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -741,6 +745,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/janvi100104/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/janvi100104/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
