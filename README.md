@@ -157,6 +157,7 @@
 | [2906-construct-product-matrix](https://github.com/janvi100104/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janvi100104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/janvi100104/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/janvi100104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/janvi100104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -316,6 +317,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/janvi100104/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/janvi100104/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/janvi100104/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/janvi100104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janvi100104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/janvi100104/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -770,6 +772,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/janvi100104/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/janvi100104/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/janvi100104/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/janvi100104/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/janvi100104/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/janvi100104/Leetcode/tree/master/3483-alternating-groups-ii) |
