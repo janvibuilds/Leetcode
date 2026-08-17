@@ -19,6 +19,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/janvi100104/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/janvi100104/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/janvi100104/Leetcode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -99,6 +100,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/janvi100104/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janvi100104/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janvi100104/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -679,6 +681,7 @@
 | [1340-jump-game-v](https://github.com/janvi100104/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/janvi100104/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/janvi100104/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janvi100104/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/janvi100104/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -956,6 +959,7 @@
 | [1140-stone-game-ii](https://github.com/janvi100104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/janvi100104/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/janvi100104/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/janvi100104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
