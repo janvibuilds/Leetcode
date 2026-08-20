@@ -173,6 +173,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/janvi100104/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/janvi100104/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/janvi100104/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/janvi100104/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janvi100104/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janvi100104/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/janvi100104/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -448,6 +449,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/janvi100104/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/janvi100104/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janvi100104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/janvi100104/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/janvi100104/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/janvi100104/Leetcode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
