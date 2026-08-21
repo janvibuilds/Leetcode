@@ -36,6 +36,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/janvi100104/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janvi100104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/janvi100104/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -174,6 +175,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/janvi100104/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/janvi100104/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janvi100104/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janvi100104/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janvi100104/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/janvi100104/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -247,6 +249,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/janvi100104/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/janvi100104/Leetcode/tree/master/2690-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/janvi100104/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -780,6 +783,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/janvi100104/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/janvi100104/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
@@ -818,6 +822,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/janvi100104/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -855,6 +860,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janvi100104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Enumeration
 |  |
 | ------- |
