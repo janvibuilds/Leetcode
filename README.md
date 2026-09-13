@@ -84,6 +84,7 @@
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/janvi100104/Leetcode/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/janvi100104/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/janvi100104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -793,6 +794,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/janvi100104/Leetcode/tree/master/0835-image-overlap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
