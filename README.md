@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/janvi100104/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/janvi100104/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/janvi100104/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/janvi100104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1406-stone-game-iii) |
@@ -938,6 +939,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/janvi100104/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/janvi100104/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/janvi100104/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Doubly-Linked List
