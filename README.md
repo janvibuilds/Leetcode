@@ -339,6 +339,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/janvi100104/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janvi100104/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janvi100104/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/janvi100104/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -406,6 +407,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/janvi100104/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janvi100104/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/janvi100104/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/janvi100104/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -552,6 +554,7 @@
 | [1288-remove-covered-intervals](https://github.com/janvi100104/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/janvi100104/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/janvi100104/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janvi100104/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/janvi100104/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/janvi100104/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -603,6 +606,7 @@
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/janvi100104/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/janvi100104/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janvi100104/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
