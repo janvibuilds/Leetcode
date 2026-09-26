@@ -126,6 +126,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/janvi100104/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/janvi100104/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/janvi100104/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janvi100104/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/janvi100104/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/janvi100104/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/janvi100104/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -353,6 +354,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi100104/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/janvi100104/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janvi100104/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -426,6 +428,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/janvi100104/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janvi100104/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/janvi100104/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/janvi100104/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
