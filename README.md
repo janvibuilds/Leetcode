@@ -409,6 +409,7 @@
 | [0032-longest-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/janvi100104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/janvi100104/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/janvi100104/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/janvi100104/Leetcode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/janvi100104/Leetcode/tree/master/0796-rotate-string) |
@@ -561,6 +562,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/janvi100104/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvi100104/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvi100104/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -636,6 +638,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/janvi100104/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/janvi100104/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janvi100104/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -762,6 +765,7 @@
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/janvi100104/Leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/janvi100104/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/janvi100104/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/janvi100104/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/janvi100104/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -1112,6 +1116,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvi100104/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvi100104/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/janvi100104/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
