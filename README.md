@@ -408,6 +408,7 @@
 | [0020-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/janvi100104/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/janvi100104/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/janvi100104/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/janvi100104/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -628,6 +629,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/janvi100104/Leetcode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/janvi100104/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/janvi100104/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -714,6 +716,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/janvi100104/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/janvi100104/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1306-jump-game-iii) |
