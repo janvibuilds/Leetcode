@@ -245,6 +245,7 @@
 | [3640-trionic-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/janvi100104/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/janvi100104/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/janvi100104/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/janvi100104/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/janvi100104/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/janvi100104/Leetcode/tree/master/3660-jump-game-ix) |
@@ -967,6 +968,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/janvi100104/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/janvi100104/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
