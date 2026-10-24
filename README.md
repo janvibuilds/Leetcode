@@ -34,6 +34,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janvi100104/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2383-add-two-integers](https://github.com/janvi100104/Leetcode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/janvi100104/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2448-count-number-of-bad-pairs](https://github.com/janvi100104/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/janvi100104/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/janvi100104/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -467,6 +468,7 @@
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/janvi100104/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2409-count-days-spent-together](https://github.com/janvi100104/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/janvi100104/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janvi100104/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/janvi100104/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
