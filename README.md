@@ -101,6 +101,7 @@
 | [1140-stone-game-ii](https://github.com/janvi100104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/janvi100104/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/janvi100104/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/janvi100104/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/janvi100104/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -730,6 +731,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/janvi100104/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -750,6 +752,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/janvi100104/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/janvi100104/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/janvi100104/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/janvi100104/Leetcode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -890,6 +893,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/janvi100104/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/janvi100104/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1095,6 +1099,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/janvi100104/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janvi100104/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
