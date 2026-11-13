@@ -229,6 +229,7 @@
 | [3379-transformed-array](https://github.com/janvi100104/Leetcode/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janvi100104/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/janvi100104/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/janvi100104/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -629,6 +630,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/janvi100104/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janvi100104/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/janvi100104/Leetcode/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3447-clear-digits](https://github.com/janvi100104/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -990,6 +992,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/janvi100104/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/janvi100104/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvi100104/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/janvi100104/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/janvi100104/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1028,6 +1031,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -1076,6 +1080,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -1124,6 +1129,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/janvi100104/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janvi100104/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/janvi100104/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/janvi100104/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/janvi100104/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1231,4 +1237,8 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janvi100104/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/janvi100104/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/janvi100104/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
