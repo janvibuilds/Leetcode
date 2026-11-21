@@ -227,6 +227,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/janvi100104/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/janvi100104/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-positive-sum-subarray](https://github.com/janvi100104/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -424,6 +425,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvi100104/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/janvi100104/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/janvi100104/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/janvi100104/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvi100104/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -519,6 +521,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/janvi100104/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/janvi100104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/janvi100104/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/janvi100104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3447-clear-digits](https://github.com/janvi100104/Leetcode/tree/master/3447-clear-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/janvi100104/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -765,6 +768,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/janvi100104/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/janvi100104/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -789,6 +793,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/janvi100104/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/janvi100104/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/janvi100104/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
