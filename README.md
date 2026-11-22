@@ -497,6 +497,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janvi100104/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/janvi100104/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/janvi100104/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/janvi100104/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/janvi100104/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
